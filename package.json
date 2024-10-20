@@ -1,0 +1,11 @@
+{
+  "name": "Judex-nodejs-file-manager",
+  "version": "1.0.0",
+  "description": "node.js file manager",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "type": "module",
+  "license": "ISC"
+}
